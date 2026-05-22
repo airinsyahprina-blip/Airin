@@ -11,3 +11,5 @@ st.header("One", divider=True)
 st.header("Two", divider=True)
 st.header("Three", divider=True)
 st.header("Four", divider=True)
+import streamlit as st
+st.image("sunrise.jpg", caption="jisoo blackpink")
